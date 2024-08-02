@@ -1,6 +1,6 @@
 # Promptly - Journaling Application
 
-A full-stack journaling application built with Next.js, Tailwind CSS, a Python/Flask backend, and MongoDB as the database. This application allows users to write, edit, and delete journal entries, with all data securely stored in a MongoDB database.
+A full-stack journaling application built with Next.js, Tailwind CSS, a Python/Flask backend, and MongoDB as the database. This application allows users to write entries with all data securely stored in a MongoDB database.
 
 ## Features
 
