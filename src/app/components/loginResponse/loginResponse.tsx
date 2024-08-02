@@ -21,12 +21,10 @@ const LoginResponse: React.FC<LoginResponseProps> = ({responseMessage, username}
   return (
     <div>
       {responseMessage === "found" ? (
-        <p>Redirecting...</p>
+        <p className="text-center">Redirecting...</p>
       ) : (
         <center>
-        <Box sx={{
-          margin: 'auto 400px', marginTop: '50px', marginBottom: '50px', display: 'flex', flexDirection: 'column', alignItems: 'center'
-        }}>
+        <Box className="mx-auto my-[400px] mt-10 mb-10 flex flex-col items-center" >
           <Link href="/register" passHref>
           <Button color="secondary" >
               back
