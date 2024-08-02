@@ -29,8 +29,8 @@ const DateEntries: React.FC<DateEntryTypes> = ({dateStr, username}) => {
   }
 
   return (
-    <div className="flex flex-col gap-2">
-      <Button onPress={handleButtonClick}>See selected date entries</Button>
+    <div className="mt-20 md:mt-48 flex justify-center">
+      <Button onPress={handleButtonClick} className="p-6 font-bold">See selected date entries</Button>
       <Modal isOpen={isOpen} onOpenChange={onOpenChange}>
         <ModalContent>
           {(onClose) => (
@@ -51,9 +51,6 @@ const DateEntries: React.FC<DateEntryTypes> = ({dateStr, username}) => {
               <ModalFooter>
                 <Button color="danger" variant="light" onPress={onClose}>
                   Close
-                </Button>
-                <Button color="primary" onPress={onClose}>
-                  Action
                 </Button>
               </ModalFooter>
             </>

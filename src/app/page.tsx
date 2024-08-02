@@ -33,14 +33,6 @@ export default function App() {
         
       <Calendar className=" mt-16 scale-125 grid mx-auto md:scale-[2] md:mt-40"/>
         
-
-        <div className="flex justify-center mt-16 mb-12 md:mt-40">
-          <Link href="/logmood" passHref>
-            <Fab color="secondary" aria-label="edit">
-                <EditIcon />
-              </Fab>
-          </Link>
-        </div>
     
     </>
   );
