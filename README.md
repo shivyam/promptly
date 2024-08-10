@@ -18,7 +18,7 @@ A full-stack journaling application built with Next.js, Tailwind CSS, a Python/F
 
 - **Frontend**: 
   - [Next.js](https://nextjs.org/) - React framework for server-rendered applications.
-  - [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework for custom designs.
+  - [Tailwind CSS](https://tailwindcss.com/) - CSS framework for custom designs.
 
 - **Backend**:
   - [Flask](https://flask.palletsprojects.com/) - Lightweight WSGI web application framework for Python.
