@@ -55,5 +55,12 @@ A full-stack journaling application built with Next.js, Tailwind CSS, a Python/F
      npm run dev
      ```
 
-6. **Access the application**:
+5. **Access the application**:
    - Navigate to `http://localhost:3000` in your browser.
+
+
+6. **Register your account**
+   - Follow the instructions on the screen.
+
+  
+7. **Start Journalling!**
