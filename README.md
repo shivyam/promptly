@@ -63,4 +63,4 @@ A full-stack journaling application built with Next.js, Tailwind CSS, a Python/F
    - Follow the instructions on the screen.
 
   
-7. **Start Journalling!**
+7. **Start Journaling!**
