@@ -2,6 +2,10 @@
 
 A full-stack journaling application built with Next.js, Tailwind CSS, a Python/Flask backend, and MongoDB as the database. This application allows users to write entries with all data securely stored in a MongoDB database.
 
+![promptly-main](https://github.com/user-attachments/assets/86f80b31-4784-4b7b-bd67-871eb4d519d8)
+![promptly-logmood](https://github.com/user-attachments/assets/b9957536-bce3-4e94-8067-eb2c6413b78b)
+
+
 ## Features
 
 - **User Authentication**: Login and registration.
